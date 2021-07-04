@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'travis_ci_demo_ios_Example' do
+  pod 'travis_ci_demo_ios', :path => '../'
+
+  target 'travis_ci_demo_ios_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
