@@ -1,0 +1,16 @@
+PODS:
+  - travis_ci_demo_ios (0.1.0)
+
+DEPENDENCIES:
+  - travis_ci_demo_ios (from `../`)
+
+EXTERNAL SOURCES:
+  travis_ci_demo_ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  travis_ci_demo_ios: 492a271724cc777db6798f43f7991011cb42871e
+
+PODFILE CHECKSUM: 90f3430adf0528f5a9da9e549a72ec7db8b1823a
+
+COCOAPODS: 1.10.1
